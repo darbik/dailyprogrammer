@@ -1,2 +1,2 @@
 # dailyprogrammer
-reddit daily programmer challenges
+daily programmer challenges
